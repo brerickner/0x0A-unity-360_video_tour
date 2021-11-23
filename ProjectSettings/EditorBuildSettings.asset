@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Cantina.unity
+    guid: 995ddbef561e62843a58e804f6601aaa
+  - enabled: 1
+    path: Assets/Scenes/Cube.unity
+    guid: f9978b1ff4b08a34dbedb8258068538c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6394e15842f61f54799b03c10b3a8f75, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0b3dffb15b1652146b7a69c6b62d6583, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fa09c5e4b565a5c41826e85d9a8d5ab3, type: 2}
