@@ -18,4 +18,8 @@ public class SceneChange : MonoBehaviour
     {
         SceneManager.LoadScene("Cube");
     }
+    public void Mezzanine_Scene()
+    {
+        SceneManager.LoadScene("Mezzanine");
+    }
 }

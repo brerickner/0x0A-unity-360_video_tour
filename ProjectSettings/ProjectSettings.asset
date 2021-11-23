@@ -131,6 +131,8 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 11400000, guid: 6394e15842f61f54799b03c10b3a8f75, type: 2}
   - {fileID: -7472575037151273043, guid: fa09c5e4b565a5c41826e85d9a8d5ab3, type: 2}
   - {fileID: 0}
